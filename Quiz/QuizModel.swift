@@ -12,7 +12,15 @@ class QuizModel: NSObject {
     
     func getQuestions() -> [Question] {
         
+        var questions = [Question]()
         
+        // TODO: get JSON file
+        
+        // TODO: parse JSON file
+        
+        // TODO: return the list of question objects
+        
+        return questions
     }
 
 }
